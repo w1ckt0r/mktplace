@@ -20,10 +20,10 @@
                 <h3 data-target="#collapse_2">Categories</h3>
                 <div class="collapse dont-collapse-sm links" id="collapse_2">
                     <ul>
-                        <li><a href="grid-listing-filterscol.html">Top Categories</a></li>
-                        <li><a href="grid-listing-filterscol-full-masonry.html">Best Rated</a></li>
-                        <li><a href="grid-listing-filterscol-full-width.html">Best Price</a></li>
-                        <li><a href="grid-listing-filterscol-full-masonry.html">Latest Submissions</a></li>
+                        <li><a href="grid-listing-masonry.php">Top Categories</a></li>
+                        <li><a href="grid-listing-masonry.php">Best Rated</a></li>
+                        <li><a href="grid-listing-masonry.php">Best Price</a></li>
+                        <li><a href="grid-listing-masonry.php">Latest Submissions</a></li>
                     </ul>
                 </div>
             </div>

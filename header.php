@@ -33,10 +33,10 @@
 
 <body data-spy="scroll" data-target="#secondary_nav" data-offset="75">
 
-    <header class="header_in clearfix">
+    <header class="header_in clearfix ">
         <div class="container">
             <div id="logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="img/logo_sticky.svg" width="140" height="35" alt="">
                 </a>
             </div>
@@ -55,12 +55,12 @@
                     <a href="#0" class="open_close">
                         <i class="icon_close"></i><span>Menu</span>
                     </a>
-                    <a href="index.html"><img src="img/logo.svg" width="162" height="35" alt=""></a>
+                    <a href="index.php"><img src="img/logo.svg" width="162" height="35" alt=""></a>
                 </div>
                 <ul>
                     <li class="submenu">
-                        <a href="#0" class="show-submenu">Home</a>
-                        <ul>
+                        <a href="index.php" class="show-submenu">Home</a>
+                        <!-- <ul>
                             <li><a href="index.html">Address Autocomplete</a></li>
                             <li><a href="index-2.html">Search by Keyword</a></li>
                             <li><a href="index-3.html">Home Version 2</a></li>
@@ -71,11 +71,11 @@
                             <li><a href="header-cart-top.html">Header Cart Top</a></li>
                             <li><a href="modal-advertise.html">Modal 1 Cookie Session</a></li>
                             <li><a href="modal-newsletter.html">Modal 2 Cookie Session</a></li>
-                        </ul>
+                        </ul> -->
                     </li>
                     <li class="submenu">
-                        <a href="#0" class="show-submenu">Listing</a>
-                        <ul>
+                        <a href="grid-listing-masonry.php" class="show-submenu">Associados</a>
+                        <!-- <ul>
                             <li class="third-level"><a href="#0">List pages</a>
                                 <ul>
                                     <li><a href="grid-listing-filterscol.html">List default</a></li>
@@ -103,11 +103,11 @@
                             <li><a href="submit-rider.html">Submit Rider</a></li>
                             <li><a href="order.html">Order</a></li>
                             <li><a href="confirm.html">Confirm Order</a></li>
-                        </ul>
+                        </ul> -->
                     </li>
                     <li class="submenu">
-                        <a href="#0" class="show-submenu">Other Pages</a>
-                        <ul>
+                        <a href="#0" class="show-submenu">Login</a>
+                        <!-- <ul>
                             <li><a href="admin_section/index.html" target="_blank">Admin Section</a></li>
                             <li><a href="404.html">404 Error</a></li>
                             <li><a href="help.html">Help and Faq</a></li>
@@ -120,9 +120,9 @@
                             <li><a href="icon-pack-1.html">Icon Pack 1</a></li>
                             <li><a href="icon-pack-2.html">Icon Pack 2</a></li>
                             <li><a href="shortcodes.html">Shortcodes</a></li>
-                        </ul>
+                        </ul> -->
                     </li>
-                    <li><a href="#0">Buy this template</a></li>
+                    <li><a target="blank" href="https://www.afrac.com.br/associar.php">Quero me Associar</a></li>
                 </ul>
             </nav>
         </div>

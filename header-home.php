@@ -42,7 +42,7 @@
             </div>
             <div class="layer"></div><!-- Opacity Mask Menu Mobile -->
             <ul id="top_menu">
-                <li><a href="#sign-in-dialog" id="sign-in" class="login">Sign In</a></li>
+                <!-- <li><a href="#sign-in-dialog" id="sign-in" class="login">Sign In</a></li> -->
                 <!-- <li><a href="wishlist.html" class="wishlist_bt_top" title="Your wishlist">Your wishlist</a></li> -->
             </ul>
             <!-- /top_menu -->
@@ -66,7 +66,7 @@
                         
                     </li>
                     <li class="submenu">
-                        <a href="#0" class="show-submenu">Login</a>
+                        <a href="login.php" class="show-submenu">Login</a>
                         
                     </li>
                     <li><a target="blank" href="https://www.afrac.com.br/associar.php">Quero me Associar</a></li>

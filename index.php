@@ -8,7 +8,7 @@
                         <div class="col-xl-6 col-lg-8">
                             <h1>MarketPlace AFRAC</h1>
                             <p>Seu guia de soluções dos nossos associados</p>
-                            <form method="post" action="grid-listing-filterscol.html">
+                            <form method="post" action="grid-listing-masonry.php">
                                 <div class="row no-gutters custom-search-input">
                                     <div class="col-lg-10">
                                         <div class="form-group">
@@ -48,7 +48,7 @@
             <!-- /main_title -->
             <div class="owl-carousel owl-theme categories_carousel">
                 <div class="item_version_2">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <figure>
                             <span>98</span>
                             <img src="http://creative360rg.com.br/mktplace/img/home_cat_placeholder.jpg" data-src="http://creative360rg.com.br/mktplace/img/home_cat_pizza.jpg" alt="" class="owl-lazy" width="350" height="450">
@@ -60,7 +60,7 @@
                     </a>
                 </div>
                 <div class="item_version_2">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <figure>
                             <span>87</span>
                             <img src="http://creative360rg.com.br/mktplace/img/home_cat_placeholder.jpg" data-src="http://creative360rg.com.br/mktplace/img/home_cat_sushi.jpg" alt="" class="owl-lazy" width="350" height="450">
@@ -72,7 +72,7 @@
                     </a>
                 </div>
                 <div class="item_version_2">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <figure>
                             <span>55</span>
                             <img src="http://creative360rg.com.br/mktplace/img/home_cat_placeholder.jpg" data-src="http://creative360rg.com.br/mktplace/img/home_cat_hamburgher.jpg" alt="" class="owl-lazy" width="350" height="450">
@@ -84,7 +84,7 @@
                     </a>
                 </div>
                 <div class="item_version_2">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <figure>
                             <span>55</span>
                             <img src="http://creative360rg.com.br/mktplace/img/home_cat_placeholder.jpg" data-src="http://creative360rg.com.br/mktplace/img/home_cat_vegetarian.jpg" alt="" class="owl-lazy" width="350" height="450">
@@ -96,7 +96,7 @@
                     </a>
                 </div>
                 <div class="item_version_2">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <figure>
                             <span>65</span>
                             <img src="http://creative360rg.com.br/mktplace/img/home_cat_placeholder.jpg" data-src="http://creative360rg.com.br/mktplace/img/home_cat_bakery.jpg" alt="" class="owl-lazy" width="350" height="450">
@@ -108,7 +108,7 @@
                     </a>
                 </div>
                 <div class="item_version_2">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <figure>
                             <span>25</span>
                             <img src="http://creative360rg.com.br/mktplace/img/home_cat_placeholder.jpg" data-src="http://creative360rg.com.br/mktplace/img/home_cat_chinesse.jpg" alt="" class="owl-lazy" width="350" height="450">
@@ -120,7 +120,7 @@
                     </a>
                 </div>
                 <div class="item_version_2">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <figure>
                             <span>35</span>
                             <img src="http://creative360rg.com.br/mktplace/img/home_cat_placeholder.jpg" data-src="http://creative360rg.com.br/mktplace/img/home_cat_mexican.jpg" alt="" class="owl-lazy" width="350" height="450">
@@ -148,7 +148,7 @@
                         <div class="list_home">
                             <ul>
                                 <li>
-                                    <a href="detail-restaurant.html">
+                                    <a href="detail-restaurant.php">
                                         <figure>
                                             <img src="http://creative360rg.com.br/mktplace/img/location_list_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/location_list_1.jpg" alt="" class="lazy" width="350" height="233">
                                         </figure>
@@ -163,7 +163,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="detail-restaurant.html">
+                                    <a href="detail-restaurant.php">
                                         <figure>
                                             <img src="http://creative360rg.com.br/mktplace/img/location_list_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/location_list_2.jpg" alt="" class="lazy" width="350" height="233">
                                         </figure>
@@ -178,7 +178,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="detail-restaurant.html">
+                                    <a href="detail-restaurant.php">
                                         <figure>
                                             <img src="http://creative360rg.com.br/mktplace/img/location_list_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/location_list_3.jpg" alt="" class="lazy" width="350" height="233">
                                         </figure>
@@ -199,7 +199,7 @@
                         <div class="list_home">
                             <ul>
                                 <li>
-                                    <a href="detail-restaurant.html">
+                                    <a href="detail-restaurant.php">
                                         <figure>
                                             <img src="http://creative360rg.com.br/mktplace/img/location_list_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/location_list_4.jpg" alt="" class="lazy" width="350" height="233">
                                         </figure>
@@ -214,7 +214,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="detail-restaurant.html">
+                                    <a href="detail-restaurant.php">
                                         <figure>
                                             <img src="http://creative360rg.com.br/mktplace/img/location_list_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/location_list_5.jpg" alt="" class="lazy" width="350" height="233">
                                         </figure>
@@ -229,7 +229,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="detail-restaurant.html">
+                                    <a href="detail-restaurant.php">
                                         <figure>
                                             <img src="http://creative360rg.com.br/mktplace/img/location_list_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/location_list_6.jpg" alt="" class="lazy" width="350" height="233">
                                         </figure>
@@ -254,7 +254,7 @@
                             <small>Anúncio Promocional</small>
                             <h3>REDE</h3>
                             <p>Visite os produtos deste associado</p>
-                            <a href="grid-listing-filterscol.html" class="btn_1 gradient">Clique aqui!</a>
+                            <a href="grid-listing-masonry.php" class="btn_1 gradient">Clique aqui!</a>
                         </div>
                     </div>
                     <!-- /wrapper -->
@@ -273,7 +273,7 @@
             <!-- /main_title -->
             <div class="row small-gutters categories_grid">
                 <div class="col-sm-12 col-md-6">
-                    <a href="grid-listing-filterscol.html">
+                    <a href="grid-listing-masonry.php">
                         <img src="http://creative360rg.com.br/mktplace/img/img_cat_home_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/img_cat_home_1.jpg" alt="" class="img-fluid lazy">
                         <div class="wrapper">
                             <h2>JN MOURA</h2>
@@ -284,7 +284,7 @@
                 <div class="col-sm-12 col-md-6">
                     <div class="row small-gutters">
                         <div class="col-sm-6">
-                            <a href="grid-listing-filterscol.html">
+                            <a href="grid-listing-masonry.php">
                                 <img src="http://creative360rg.com.br/mktplace/img/img_cat_home_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/img_cat_home_2.jpg" alt="" class="img-fluid lazy">
                                 <div class="wrapper">
                                     <h2>Data System</h2>
@@ -293,7 +293,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6">
-                            <a href="grid-listing-filterscol.html">
+                            <a href="grid-listing-masonry.php">
                                 <img src="http://creative360rg.com.br/mktplace/img/img_cat_home_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/img_cat_home_3.jpg" alt="" class="img-fluid lazy">
                                 <div class="wrapper">
                                     <h2>Beblues</h2>
@@ -302,7 +302,7 @@
                             </a>
                         </div>
                         <div class="col-sm-12 margin">
-                            <a href="grid-listing-filterscol.html">
+                            <a href="grid-listing-masonry.php">
                                 <img src="http://creative360rg.com.br/mktplace/img/img_cat_home_placeholder.png" data-src="http://creative360rg.com.br/mktplace/img/img_cat_home_4.jpg" alt="" class="img-fluid lazy">
                                 <div class="wrapper">
                                     <h2>LINX</h2>

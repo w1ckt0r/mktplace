@@ -135,11 +135,11 @@
         <!-- /filters -->
         <div class="container margin_30_20">
 
-            <div class="promo mb_30">
+            <!-- <div class="promo mb_30">
                 <h3>Free Delivery for your first 14 days!</h3>
                 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
                 <i class="icon-food_icon_delivery"></i>
-            </div>
+            </div> -->
             <!-- /promo -->
 
             <div class="row isotope-wrapper">
@@ -147,7 +147,7 @@
                     <div class="strip">
                         <figure>
                             <span class="ribbon off">15% off</span>
-                            <img src="img/lazy-placeholder.png" data-src="img/location_1.jpg" class="img-fluid lazy" alt="">
+                            <img src="img/cielo.png" data-src="img/cielo.jpg" class="img-fluid lazy" alt="">
                             <a href="detail-restaurant.php" class="strip_info">
                                 <small>Pizza</small>
                                 <div class="item_title">

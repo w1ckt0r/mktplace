@@ -4,43 +4,45 @@
 
         <div class="row">
             <div class="col-lg-3 col-md-6">
-                <h3 data-target="#collapse_1">Quick Links</h3>
+                <img src="img/logo_sticky.svg" alt="">
                 <div class="collapse dont-collapse-sm links" id="collapse_1">
                     <ul>
-                        <li><a href="about.html">About us</a></li>
-                        <li><a href="submit-restaurant.html">Add your restaurant</a></li>
-                        <li><a href="help.html">Help</a></li>
-                        <li><a href="account.html">My account</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contacts.html">Contacts</a></li>
+                    <br>
+                        Esteja à frente sempre!
+                        Seja o primeiro a saber das novidades do segmento e mantenha o seu negócio inovador e rentável. Associe-se!
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h3 data-target="#collapse_2">Categories</h3>
+                <h3 data-target="#collapse_2">Endereço</h3>
                 <div class="collapse dont-collapse-sm links" id="collapse_2">
                     <ul>
-                        <li><a href="grid-listing-masonry.php">Top Categories</a></li>
-                        <li><a href="grid-listing-masonry.php">Best Rated</a></li>
+                        <li>
+                            R. Prof. Aprígio Gonzaga, 35
+                            Conjunto 64
+                            São Judas, São Paulo - SP, 04303-000
+                        </li>
+                        <!-- <li><a href="grid-listing-masonry.php">Best Rated</a></li>
                         <li><a href="grid-listing-masonry.php">Best Price</a></li>
-                        <li><a href="grid-listing-masonry.php">Latest Submissions</a></li>
+                        <li><a href="grid-listing-masonry.php">Latest Submissions</a></li> -->
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h3 data-target="#collapse_3">Contacts</h3>
+                <h3 data-target="#collapse_3">Contatos</h3>
                 <div class="collapse dont-collapse-sm contacts" id="collapse_3">
                     <ul>
-                        <li><i class="icon_house_alt"></i>97845 Baker st. 567<br>Los Angeles - US</li>
-                        <li><i class="icon_mobile"></i>+94 423-23-221</li>
-                        <li><i class="icon_mail_alt"></i><a href="#0">info@domain.com</a></li>
+                        Telefone: +55 11 3284-7080
+
+                        <!-- <li><i class="icon_mobile"></i>+94 423-23-221</li>
+                        <li><i class="icon_mail_alt"></i><a href="#0">info@domain.com</a></li> -->
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h3 data-target="#collapse_4">Keep in touch</h3>
-                <div class="collapse dont-collapse-sm" id="collapse_4">
-                    <div id="newsletter">
+                <!-- <h3 data-target="#collapse_4">Keep in touch</h3> -->
+                <!-- <div class="collapse dont-collapse-sm" id="collapse_4"> -->
+                    <!-- <div id="newsletter">
                         <div id="message-newsletter"></div>
                         <form method="post" action="assets/newsletter.php" name="newsletter_form" id="newsletter_form">
                             <div class="form-group">
@@ -48,48 +50,48 @@
                                 <button type="submit" id="submit-newsletter"><i class="arrow_carrot-right"></i></button>
                             </div>
                         </form>
-                    </div>
+                    </div> -->
                     <div class="follow_us">
-                        <h5>Follow Us</h5>
+                        <h3>Nos Acompanhe</h3>
                         <ul>
                             <li>
-                                <a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/twitter_icon.svg" alt="" class="lazy"></a>
+                                <a target="blank" href="https://www.linkedin.com/company/afrac/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/linkedin_icon.svg" alt="" class="lazy"></a>
                             </li>
                             <li>
-                                <a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/facebook_icon.svg" alt="" class="lazy"></a>
+                                <a target="blank" href="https://www.facebook.com/AFRAC.Oficial"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/facebook_icon.svg" alt="" class="lazy"></a>
                             </li>
                             <li>
-                                <a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/instagram_icon.svg" alt="" class="lazy"></a>
+                                <a target="blank" href="https://www.instagram.com/afrac.oficial/?hl=pt-br"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/instagram_icon.svg" alt="" class="lazy"></a>
                             </li>
                             <li>
-                                <a href="#0"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/youtube_icon.svg" alt="" class="lazy"></a>
+                                <a target="blank" href="https://www.youtube.com/user/AFRACOficial"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/youtube_icon.svg" alt="" class="lazy"></a>
                             </li>
                         </ul>
                     </div>
-                </div>
+                <!-- </div> -->
             </div>
         </div>
         <!-- /row-->
         <hr>
-        <div class="row add_bottom_25">
+        <!-- <div class="row add_bottom_25">
             <div class="col-lg-6">
                 <ul class="footer-selector clearfix">
                     <li>
                         <div class="styled-select lang-selector">
                             <select>
-									<option value="English" selected>English</option>
-									<option value="French">French</option>
-									<option value="Spanish">Spanish</option>
-									<option value="Russian">Russian</option>
-								</select>
+                                <option value="English" selected>English</option>
+                                <option value="French">French</option>
+                                <option value="Spanish">Spanish</option>
+                                <option value="Russian">Russian</option>
+                            </select>
                         </div>
                     </li>
                     <li>
                         <div class="styled-select currency-selector">
                             <select>
-									<option value="US Dollars" selected>US Dollars</option>
-									<option value="Euro">Euro</option>
-								</select>
+                                <option value="US Dollars" selected>US Dollars</option>
+                                <option value="Euro">Euro</option>
+                            </select>
                         </div>
                     </li>
                     <li><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="img/cards_all.svg" alt="" width="230" height="35" class="lazy"></li>
@@ -102,7 +104,7 @@
                     <li><span>© FooYes</span></li>
                 </ul>
             </div>
-        </div>
+        </div> -->
     </div>
 </footer>
 <!--/footer-->

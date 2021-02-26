@@ -12,7 +12,7 @@
                                 <div class="row no-gutters custom-search-input">
                                     <div class="col-lg-10">
                                         <div class="form-group">
-                                            <input class="form-control no_border_r" type="text" id="autocomplete" placeholder="Address, neighborhood...">
+                                            <input class="form-control no_border_r" type="text" id="autocomplete" placeholder="Pesquise aqui alguma empresa Associada">
                                         </div>
                                     </div>
                                     <div class="col-lg-2">
